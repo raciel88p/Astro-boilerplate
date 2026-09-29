@@ -1,5 +1,109 @@
 # Changelog
 
+## [1.16.0](https://github.com/raciel88p/Astro-boilerplate/compare/v1.15.3...v1.16.0) (2026-09-29)
+
+
+### Features
+
+* add animation on hover ([6cbcdd4](https://github.com/raciel88p/Astro-boilerplate/commit/6cbcdd4202f011cb17d941dfa8b74556533b3eec))
+* add author seo tags ([047dc0d](https://github.com/raciel88p/Astro-boilerplate/commit/047dc0d49081873d0ba13f1e3fcfaeb1df862d90))
+* add category in project ([c366df9](https://github.com/raciel88p/Astro-boilerplate/commit/c366df93a9a375d618f56ef323990c338f731345))
+* add category tags with colors ([3b3d9c2](https://github.com/raciel88p/Astro-boilerplate/commit/3b3d9c229b329999556ceb3f5fbd8fa13ccf9e23))
+* add footer with creative designs guru link ([762ba12](https://github.com/raciel88p/Astro-boilerplate/commit/762ba124d6c86a74c2d1274e17bb20552644a8e7))
+* add header for blog post component ([54f07ef](https://github.com/raciel88p/Astro-boilerplate/commit/54f07ef00535781ee5f31144835a8d49b2331781))
+* add image alt in posts for SEO ([e9aec87](https://github.com/raciel88p/Astro-boilerplate/commit/e9aec87652805dcf720addeef5eb58310729b1ec))
+* add image in frontmatter ([a42bd16](https://github.com/raciel88p/Astro-boilerplate/commit/a42bd1623cf142ed696f5bb0f16d55030fff332a))
+* add link for social links and project ([6dc4ad9](https://github.com/raciel88p/Astro-boilerplate/commit/6dc4ad987450db78fcd2cd364b51fe3406214fe8))
+* add metatag for rss feed ([e0c69eb](https://github.com/raciel88p/Astro-boilerplate/commit/e0c69eb499659aebe10730d86f0917da70bbabe3))
+* add new image for blog posts ([83fe560](https://github.com/raciel88p/Astro-boilerplate/commit/83fe560ffa4402a3204b9b518871976b2e4bca9a))
+* add newsletter component ([91f95d9](https://github.com/raciel88p/Astro-boilerplate/commit/91f95d96a1bcf6475ef7a05d378dee3880ebc95a))
+* add pagination ([5845d95](https://github.com/raciel88p/Astro-boilerplate/commit/5845d95ca7c0daade96909631986ad86e309c5a5))
+* add pagination and refactor astro type ([6d77ea8](https://github.com/raciel88p/Astro-boilerplate/commit/6d77ea8383e1b06b75cc521935bf4bc09f1ae3d2))
+* add paginationHeader component ([ec98bad](https://github.com/raciel88p/Astro-boilerplate/commit/ec98bad73b85482254a3bfd5f7ba52b2ef1faccf))
+* add robots.txt ([a045e65](https://github.com/raciel88p/Astro-boilerplate/commit/a045e65b2bc1f68b78ce27218820a584053462d5))
+* add sitemap ([81b2ff0](https://github.com/raciel88p/Astro-boilerplate/commit/81b2ff0f5b893f40b4deb9d8b123ce65fd89f167))
+* add tailwind css typgraphy ([a3f6035](https://github.com/raciel88p/Astro-boilerplate/commit/a3f60357d454a8a8c1ddbaa361249f41e4ddbcd8))
+* add text gradient ([567bb44](https://github.com/raciel88p/Astro-boilerplate/commit/567bb4414b7e52df7c2bed9bd2ba1b284d66ce2e))
+* add the missing trailing slash in the view all posts link ([3a1fc35](https://github.com/raciel88p/Astro-boilerplate/commit/3a1fc35b54064900c2d0c78ef76cc2c1a5a6d2c8))
+* add typography example ([3e31c61](https://github.com/raciel88p/Astro-boilerplate/commit/3e31c614b23c738e02ebc74a31e2b0d1851f1d33))
+* add xml rss feed generation ([459bef0](https://github.com/raciel88p/Astro-boilerplate/commit/459bef053bdee16a421d2893c86c9004a20b3c3d))
+* clean up in posts/ page ([a6fa786](https://github.com/raciel88p/Astro-boilerplate/commit/a6fa7867342afdd32329410b389b23bc63365307))
+* display on homepage the last 3 posts published ([c8d50e8](https://github.com/raciel88p/Astro-boilerplate/commit/c8d50e81f7290ba3a9706fbc204a7f671ab1fb25))
+* implement blog card ([0ffecb9](https://github.com/raciel88p/Astro-boilerplate/commit/0ffecb910d7a682d2ebc63be682269f2acb26203))
+* implement header with avatar and social links ([d0a811b](https://github.com/raciel88p/Astro-boilerplate/commit/d0a811b54c10f24aab17ef268a4557cc6002ab73))
+* implement navigation bar ([d06e32e](https://github.com/raciel88p/Astro-boilerplate/commit/d06e32e56bc78a79b3f3185cf61c2d58b64e17af))
+* implement one project card ([7f81618](https://github.com/raciel88p/Astro-boilerplate/commit/7f81618787e6a57926c9047602cfcb3a8e840a59))
+* implement pagination and add tailwind config for VSCode support ([93d78e3](https://github.com/raciel88p/Astro-boilerplate/commit/93d78e3cb6d7172d13f02b02b5d2a1d9e1df81d9))
+* improve default title ([e750429](https://github.com/raciel88p/Astro-boilerplate/commit/e750429bb8bf7638b47b707be29fb9c86eef5408))
+* improve UI in pagination ([0419c91](https://github.com/raciel88p/Astro-boilerplate/commit/0419c9113a31d86f40e332ffb808cb5c0b58efd8))
+* lazy load image with astro-imagetools ([3328f5c](https://github.com/raciel88p/Astro-boilerplate/commit/3328f5c7734fbad8305eb8e0d1f42f72a14157d5))
+* make hero responsive ([373776d](https://github.com/raciel88p/Astro-boilerplate/commit/373776d034ea5866c8dd6fe20f1053d483b764c1))
+* make newsletter component responsive ([a5135b3](https://github.com/raciel88p/Astro-boilerplate/commit/a5135b33538f7f415295a703c4f920c6f6b7fc06))
+* make project list smaller ([dddbb39](https://github.com/raciel88p/Astro-boilerplate/commit/dddbb39286d4fbbe05f89560e2c4f42da5292ca4))
+* make responsive the pagination ([3121522](https://github.com/raciel88p/Astro-boilerplate/commit/3121522a4d8520f218257e857473cd5688fa1a4a))
+* project list responsive ([ad058ff](https://github.com/raciel88p/Astro-boilerplate/commit/ad058ffe5c8ff4db90ef1d4ccf19198116647053))
+* replace about page by twitter link ([14a0d57](https://github.com/raciel88p/Astro-boilerplate/commit/14a0d57e28317557e448928ac751912663e74682))
+* resize post image in blog post component ([31cc95c](https://github.com/raciel88p/Astro-boilerplate/commit/31cc95c70e9549631f7d0075a4e7da96de2fc0e8))
+* stop using astro image tools when it doesn't do a better job ([8f85658](https://github.com/raciel88p/Astro-boilerplate/commit/8f85658befc15e3f0e4d775592c652af63b98eb7))
+* support meta description ([bbd1cc7](https://github.com/raciel88p/Astro-boilerplate/commit/bbd1cc758e95e771eb645e4f7e4f1eaf3ac07529))
+* update to Astro v4 ([1d65a9c](https://github.com/raciel88p/Astro-boilerplate/commit/1d65a9ce254693a3817f7ecfdffb8d8c6fd12e10))
+* upgrade astro to version 3 ([e9dff08](https://github.com/raciel88p/Astro-boilerplate/commit/e9dff08902fbe35884ba57df1fe2acdd8b3aecf6))
+* upgrade astro to version 3 ([bec033d](https://github.com/raciel88p/Astro-boilerplate/commit/bec033dec2de46d142f010489591129976e8602a))
+
+
+### Fixes
+
+* add link in logo ([7b33a96](https://github.com/raciel88p/Astro-boilerplate/commit/7b33a9666e92e5c6c9e791a90f2d8c937e685c1c))
+* **env:** default API_URL to backend production URL on Vercel ([5606c6e](https://github.com/raciel88p/Astro-boilerplate/commit/5606c6ee1c33d733258ad4b6daba734489836a7c))
+* error 404 for link ([f46d2ba](https://github.com/raciel88p/Astro-boilerplate/commit/f46d2baccd99a86da82464315f71e941ddcec3d5))
+* lint now works and added node version recommendation ([63990f7](https://github.com/raciel88p/Astro-boilerplate/commit/63990f7d3bf809ef24efca3386992aae71092bd2))
+* lint now works and added node version recommendation ([6198b37](https://github.com/raciel88p/Astro-boilerplate/commit/6198b37bc22c93f59bba2d5af5a77a999e37adba))
+* lint now works and added node version recommendation ([ff275fc](https://github.com/raciel88p/Astro-boilerplate/commit/ff275fc3f50ee4046cce0c35baaa3f5f7bfa9778))
+* remove astro-imagetools ([55ef425](https://github.com/raciel88p/Astro-boilerplate/commit/55ef425089d8d0c967bbc37b4abe1494e01c73f6))
+* remove astro-imagetools ([6927dbf](https://github.com/raciel88p/Astro-boilerplate/commit/6927dbf2c697542cd29aa92e17ba05afe1122b7e))
+* trailing slashes and links ([d59a96d](https://github.com/raciel88p/Astro-boilerplate/commit/d59a96d7e4e4a48943ed2089b9ee690fa8c3cd79))
+* trailing slashes and links ([3a2b84f](https://github.com/raciel88p/Astro-boilerplate/commit/3a2b84f42b545cd976aa9021aaa8e7e24d9b2943))
+
+
+### Refactors
+
+* add AppConfig for easy customization ([2af6eed](https://github.com/raciel88p/Astro-boilerplate/commit/2af6eed6552b885742ae3e1f28da3d7f2170a28f))
+* add blog card component ([d278cce](https://github.com/raciel88p/Astro-boilerplate/commit/d278ccee9104ced19b520a7951c74273d1143012))
+* add landingPage layout with NavMenu and NavMenuItem ([88bc75d](https://github.com/raciel88p/Astro-boilerplate/commit/88bc75d053ec0b69bf0e3c6ebe283c6d254e5cd6))
+* add Navbar component ([f7e4ded](https://github.com/raciel88p/Astro-boilerplate/commit/f7e4ded5ec4bd4adefec0e5d7a35dc97d057627e))
+* add project list component ([48db29f](https://github.com/raciel88p/Astro-boilerplate/commit/48db29fbf1a0b7d304217d14cd77c25b54c710b2))
+* create newsletter component and add CTA component when needed ([8d8b8d7](https://github.com/raciel88p/Astro-boilerplate/commit/8d8b8d79b7949c22869bd696a6652fbc4aa4b907))
+* create Project component and replicate for other projects ([e0716c0](https://github.com/raciel88p/Astro-boilerplate/commit/e0716c0d96fd3ea3c3571f4baae8770c048408b9))
+* expose menu items in NavMenu and add Hero Social component ([25e9bf2](https://github.com/raciel88p/Astro-boilerplate/commit/25e9bf23be8cb756ec88ed37486c83140c1868a6))
+* implement Section component ([998d266](https://github.com/raciel88p/Astro-boilerplate/commit/998d266fabee795fb3e58a8b409be2a7f0cffcb3))
+* improve seo head and title ([7076cf0](https://github.com/raciel88p/Astro-boilerplate/commit/7076cf0255c7d7390e5d1aba6c06d5e490e90ec4))
+* make smaller clickable link in project ([f1ab51e](https://github.com/raciel88p/Astro-boilerplate/commit/f1ab51e4dc13b6efaba2a1a868f6fde0bc8d9f80))
+* migrate from index astro to blog gallery ([2ed715b](https://github.com/raciel88p/Astro-boilerplate/commit/2ed715b631d39441a8efd1f8b813c3c1b9ec2416))
+* move layouts folder to templates ([55bc205](https://github.com/raciel88p/Astro-boilerplate/commit/55bc205be2913cc02a5d744afd068c8215373b81))
+* posts utils ([67f3bd2](https://github.com/raciel88p/Astro-boilerplate/commit/67f3bd2830e169592d042eedfe177ba5d09aeeec))
+* remove landing page component and create blog gallery component ([21281ff](https://github.com/raciel88p/Astro-boilerplate/commit/21281ff368b5b32f8ada8b24b98d086505ff5f58))
+* rename from BlogPost to BasePost ([1097f18](https://github.com/raciel88p/Astro-boilerplate/commit/1097f18661c165451c8a006918f18ca809b85405))
+* rename mapColorToClass to colorToClassMap in Tags component ([6067de9](https://github.com/raciel88p/Astro-boilerplate/commit/6067de962428517a1054923d6e9d29bd13e61f2c))
+* rename variables for better understanding ([a1e8b17](https://github.com/raciel88p/Astro-boilerplate/commit/a1e8b174c286b599316b15caf5ad601867dcf9d9))
+* replace class by className in React ([abf5f89](https://github.com/raciel88p/Astro-boilerplate/commit/abf5f89708b95074a98950bf501cb8859d6d39d1))
+* replace generic record by IFrontmatter ([f327c2b](https://github.com/raciel88p/Astro-boilerplate/commit/f327c2b0258731b3789c551a0783224ebd769204))
+* replace layouts folder by partials folder ([a40a1bb](https://github.com/raciel88p/Astro-boilerplate/commit/a40a1bbf3d199ce815d02d5d880f40c45e2d7671))
+* update dependencies and add typing for pagination ([bb4db41](https://github.com/raciel88p/Astro-boilerplate/commit/bb4db415e88a4f63599acba6af4365819702fbc0))
+* use components from astro boilerplate components ([54c0a10](https://github.com/raciel88p/Astro-boilerplate/commit/54c0a10a78078562ebc3a9ce4978e7be264d8a29))
+
+
+### Documentation
+
+* add github account in GitHub FUNDING.yml ([9dda471](https://github.com/raciel88p/Astro-boilerplate/commit/9dda471a9b7b850c840d2023bf069487b83de862))
+* add more commands and contribution section ([b8e14ff](https://github.com/raciel88p/Astro-boilerplate/commit/b8e14ff55bafeefd042bb7f650128cf48d5d4c43))
+* clarify instructions for local environment setup in README ([59205bc](https://github.com/raciel88p/Astro-boilerplate/commit/59205bc6cf56fd984c7ad1cb9f3e8ed86e0b3884))
+* list astro boilerplate feature and tech stack ([6fa0f00](https://github.com/raciel88p/Astro-boilerplate/commit/6fa0f00ee32c8d9986cdb02527dd3fd92be97962))
+* update dev port in readme ([483105a](https://github.com/raciel88p/Astro-boilerplate/commit/483105a8ab84175a753ebf7f03d136a04ffafd12))
+* update Readme file by adding information on how to deploy ([05b8498](https://github.com/raciel88p/Astro-boilerplate/commit/05b849853fb522828100b3b5e418bbdd87c0b3a5))
+* update readme for latest astro version ([b77bf96](https://github.com/raciel88p/Astro-boilerplate/commit/b77bf96d64b480393b7fd19d7b4800d8cf8fcdd2))
+* update readme for presentation ([d396a1b](https://github.com/raciel88p/Astro-boilerplate/commit/d396a1b31a98f8c4f99c91118b1b0dc3865b0af0))
+* update sponsors section in README file ([0dd3469](https://github.com/raciel88p/Astro-boilerplate/commit/0dd3469cae8d1a1d60ea2e1591ea01a4db3097b1))
+
 ## [1.15.3](https://github.com/trycompai/crm/compare/v1.15.2...v1.15.3) (2026-08-21)
 
 
